@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'SourceHanSansCN-Bold';
+    font-weight: normal;
+    font-style: normal;
+    src: url('/src/assets/SourceHanSansCN-Bold.otf');
+}
+
+@font-face {
+    font-family: 'SourceHanSansCN-ExtraLight';
+    font-weight: normal;
+    font-style: normal;
+    src: url('/src/assets/SourceHanSansCN-ExtraLight.otf');
+}
+
+@font-face {
+    font-family: 'SourceHanSansCN-Heavy';
+    font-weight: normal;
+    font-style: normal;
+    src: url('/src/assets/SourceHanSansCN-Heavy.otf');
+}
+
+@font-face {
+    font-family: 'SourceHanSansCN-Light';
+    font-weight: normal;
+    font-style: normal;
+    src: url('/src/assets/SourceHanSansCN-Light.otf');
+}
+
+@font-face {
+    font-family: 'SourceHanSansCN-Medium';
+    font-weight: normal;
+    font-style: normal;
+    src: url('/src//assets//SourceHanSansCN-Medium.otf');
+}
+
+@font-face {
+    font-family: 'SourceHanSansCN-Normal';
+    font-weight: normal;
+    font-style: normal;
+    src: url('/src/assets//SourceHanSansCN-Normal.otf');
+}
+
+@font-face {
+    font-family: 'SourceHanSansCN-Regular';
+    font-weight: normal;
+    font-style: normal;
+    src: url('/src/assets/SourceHanSansCN-Regular.otf');
+}
